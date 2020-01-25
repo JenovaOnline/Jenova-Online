@@ -48,6 +48,8 @@ Change-log is incomplete. These notes may change at anytime.
     * Bio has a moderate chance to do both
 * Jenova Death Teleport pad now takes to straight to Forest Town
 * Heretic Battle Music
+* EXP/Drop/Gold rate items are now timed.
+  * Time flows when game is playing, not offline.
 
 ### Fixed
 
