@@ -5,7 +5,7 @@ description: This is the beginning of Alpha. Lots of changes in this version.
 # Alpha Change-log
 
 {% hint style="warning" %}
-Change-log is incomplete. These notes may change at anytime. 
+Change-log is incomplete. These notes may change at anytime.
 {% endhint %}
 
 ## 1.0.0 - MM/DD/YYYY
@@ -50,6 +50,7 @@ Change-log is incomplete. These notes may change at anytime.
 * Heretic Battle Music
 * EXP/Drop/Gold rate items are now timed.
   * Time flows when game is playing, not offline.
+* Ice Cave Music slowed
 
 ### Fixed
 
@@ -61,8 +62,4 @@ Change-log is incomplete. These notes may change at anytime.
 
 * Shadow Tower from Forest Town
 * Temple Area
-
-
-
-
 
