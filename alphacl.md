@@ -57,6 +57,7 @@ Change-log is incomplete. These notes may change at anytime.
 * Luck is now included in Upgrades, like intended
 * Miscellaneous items formula are corrected
 * Never-ending Forest battle bug
+* Black Screen when starting new game
 
 ### Removed
 
