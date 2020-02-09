@@ -51,6 +51,7 @@ Change-log is incomplete. These notes may change at anytime.
 * EXP/Drop/Gold rate items are now timed.
   * Time flows when game is playing, not offline.
 * Ice Cave Music slowed
+* EXP Rate removed from Base and 1st Job Stat Upgrades
 
 ### Fixed
 
