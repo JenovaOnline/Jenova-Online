@@ -52,6 +52,7 @@ Change-log is incomplete. These notes may change at anytime.
   * Time flows when game is playing, not offline.
 * Ice Cave Music slowed
 * EXP Rate removed from Base and 1st Job Stat Upgrades
+* Snow Town is now physically blocked off until you meet the level requirement
 
 ### Fixed
 
@@ -59,6 +60,8 @@ Change-log is incomplete. These notes may change at anytime.
 * Miscellaneous items formula are corrected
 * Never-ending Forest battle bug
 * Black Screen when starting new game
+* Snow Town Level Requirement
+* Ice Cave Guards
 
 ### Removed
 
