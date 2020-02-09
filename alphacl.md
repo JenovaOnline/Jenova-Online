@@ -53,6 +53,9 @@ Change-log is incomplete. These notes may change at anytime.
 * Ice Cave Music slowed
 * EXP Rate removed from Base and 1st Job Stat Upgrades
 * Snow Town is now physically blocked off until you meet the level requirement
+* Skill damage formulas normalized
+  * A lot of skills have been buffed/nerfed
+    * Biggest change was that all damage formulas now based on the defense of the enemy at 1 times instead of 2 or 3 times
 
 ### Fixed
 
