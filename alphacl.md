@@ -62,6 +62,8 @@ Change-log is incomplete. These notes may change at anytime.
 * Black Screen when starting new game
 * Snow Town Level Requirement
 * Ice Cave Guards
+* Emissary Stat Gauge duplication
+  * Should have been MP Cost instead of MP Regen
 
 ### Removed
 
