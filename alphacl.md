@@ -41,7 +41,7 @@ Change-log is incomplete. These notes may change at anytime.
 * Guard added as secondary Limit to 2nd Job class
   * Regular guard removed from basic class and 2nd job class
     * Regular Guard no longer heals/taunts but increased defense by 2x
-      * Limit guard now has these and also nullifies damage
+      * Limit Guard Skill now has these and also nullifies damage
 * Toxin now causes Toxic in addition to a small chance of Poison
   * Toxic does more DOT the more turns pass
   * Sludge has a low chance of Toxic and a high chance of Poison
