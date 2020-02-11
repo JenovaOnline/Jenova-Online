@@ -82,6 +82,7 @@ Change-log is incomplete. These notes may change at anytime.
   * Neverending loop when checking progress
 * Neverending Forest Guard not leaving when quest finished
 * Valley Village Guards glitched
+* Ultimate Forest Entrance Crash
 
 ### Removed
 
