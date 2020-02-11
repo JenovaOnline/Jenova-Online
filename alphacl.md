@@ -59,6 +59,8 @@ Change-log is incomplete. These notes may change at anytime.
     * 1st job paths all have the same starting stats
     * 2nd jobs paths all have the same starting stats
   * Class Passives have been buffed/nerfed to maximum of 33% across the board
+    * This excludes Regen-type passives, which have been nerfed to maximum of 3%
+    * Added one trait to each passive due to the nerfs, in range of the class type
   * Skill damage formulas normalized
     * A lot of skills have been buffed/nerfed
       * Biggest change was that all damage formulas now based on the defense of the enemy at 1 times instead of 2 or 3 times
