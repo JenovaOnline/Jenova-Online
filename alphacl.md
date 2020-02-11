@@ -48,8 +48,6 @@ Change-log is incomplete. These notes may change at anytime.
     * Bio has a moderate chance to do both
 * Jenova Death Teleport pad now takes to straight to Forest Town
 * Heretic Battle Music
-* EXP/Drop/Gold rate items are now timed.
-  * Time flows when game is playing, not offline.
 * Ice Cave Music slowed
 * EXP Rate removed from Base and 1st Job Stat Upgrades
 * Snow Town is now physically blocked off until you meet the level requirement
@@ -64,7 +62,6 @@ Change-log is incomplete. These notes may change at anytime.
   * Skill damage formulas normalized
     * A lot of skills have been buffed/nerfed
       * Biggest change was that all damage formulas now based on the defense of the enemy at 1 times instead of 2 or 3 times
-
 
 ### Fixed
 
