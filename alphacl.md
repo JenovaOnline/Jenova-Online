@@ -76,6 +76,10 @@ Change-log is incomplete. These notes may change at anytime.
 * Ice Cave Guards
 * Emissary Stat Gauge duplication
   * Should have been MP Cost instead of MP Regen
+* Switches not activating when defeating Dragon
+* Valley Village Tifa issues
+  * Mentioning Ice Cave when it should be Neverending Forest
+  * Neverending loop when checking progress
 
 ### Removed
 
