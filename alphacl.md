@@ -81,6 +81,7 @@ Change-log is incomplete. These notes may change at anytime.
   * Mentioning Ice Cave when it should be Neverending Forest
   * Neverending loop when checking progress
 * Neverending Forest Guard not leaving when quest finished
+* Valley Village Guards glitched
 
 ### Removed
 
