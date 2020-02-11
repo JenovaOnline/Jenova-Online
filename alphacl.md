@@ -86,5 +86,7 @@ Change-log is incomplete. These notes may change at anytime.
 ### Removed
 
 * Shadow Tower from Forest Town
+  * Shadow Tower \(Bank\)
+    * Shadow Tower \(Expertise\) is now the only option \(Renamed "Shadow Tower"\)
 * Temple Area
 
