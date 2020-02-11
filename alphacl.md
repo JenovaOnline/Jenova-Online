@@ -80,6 +80,7 @@ Change-log is incomplete. These notes may change at anytime.
 * Valley Village Tifa issues
   * Mentioning Ice Cave when it should be Neverending Forest
   * Neverending loop when checking progress
+* Neverending Forest Guard not leaving when quest finished
 
 ### Removed
 
