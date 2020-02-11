@@ -62,6 +62,8 @@ Change-log is incomplete. These notes may change at anytime.
   * Skill damage formulas normalized
     * A lot of skills have been buffed/nerfed
       * Biggest change was that all damage formulas now based on the defense of the enemy at 1 times instead of 2 or 3 times
+* Chest, Expertise and Bank are now randomized to one dungeon instead of spread out between 2 different ones.
+  * You will also always fight three enemies instead of having a chance to. 
 
 ### Fixed
 
