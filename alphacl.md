@@ -48,6 +48,14 @@ Change-log is incomplete. These notes may change at anytime.
   * These have also been replaced with EXP/Gold/Drop Orbs in the Premium Shops.
   * Forest Town and Norville will only show these once Jenova Death is defeated \(you dont have access to Shadow Medallions before this anyway\).
 * Forest Town and Norvile Premium Shops change once you finish class change quest or use quest item.
+* Achievements no longer grant EXP
+  * They now grant 4 Level Up Tablets
+  * Tablets are split up in 5 different types
+    * Beginner Achievements grant +1 Level Tablets
+    * Intermediate Achievements grant +5 Level Tablets
+    * Expert Achievements grant +10 Level Tablets
+    * Legendary Achievements grant +50 Level Tablets
+    * Godly Achievements grant +100 Level Tablets
 * **Player Balance Patch**
   * All classes now start off with a normalized stat base.
     * Base classes all have the same starting stats
