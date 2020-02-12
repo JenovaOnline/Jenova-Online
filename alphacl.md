@@ -89,6 +89,7 @@ Change-log is incomplete. These notes may change at anytime.
 * Neverending Forest Guard not leaving when quest finished
 * Valley Village Guards glitched
 * Ultimate Forest Entrance Crash
+* Fortress City exit not defined
 
 ### Removed
 
