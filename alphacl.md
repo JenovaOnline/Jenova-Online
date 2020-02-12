@@ -40,6 +40,8 @@ Change-log is incomplete. These notes may change at anytime.
 * Chest, Expertise and Bank are now randomized to one dungeon instead of spread out between 2 different ones.
   * You will also always fight three enemies instead of having a chance to.
 * Overkill buffed
+* Platinum is no longer obtainable
+  * Shadow Medallions are now dropped at a higher rate instead
 * **Player Balance Patch**
   * All classes now start off with a normalized stat base.
     * Base classes all have the same starting stats
