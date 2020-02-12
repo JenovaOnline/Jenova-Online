@@ -35,17 +35,7 @@ Change-log is incomplete. These notes may change at anytime.
 * Bosses now drop Ultimate Weapon
 * Upgrade levels normalized
 * MP Regen on weapons now Magic Reflection
-* HP/MP heal spells nerfed
-  * HP/MP Regen added to heal spells
 * Limit breaks no longer on 1st class change
-* Guard added as secondary Limit to 2nd Job class
-  * Regular guard removed from basic class and 2nd job class
-    * Regular Guard no longer heals/taunts but increased defense by 2x
-      * Limit Guard Skill now has these and also nullifies damage
-* Toxin now causes Toxic in addition to a small chance of Poison
-  * Toxic does more DOT the more turns pass
-  * Sludge has a low chance of Toxic and a high chance of Poison
-    * Bio has a moderate chance to do both
 * Jenova Death Teleport pad now takes to straight to Forest Town
 * Heretic Battle Music
 * Ice Cave Music slowed
@@ -62,6 +52,16 @@ Change-log is incomplete. These notes may change at anytime.
   * Skill damage formulas normalized
     * A lot of skills have been buffed/nerfed
       * Biggest change was that all damage formulas now based on the defense of the enemy at 1 times instead of 2 or 3 times
+    * HP/MP heal spells nerfed
+      * HP/MP Regen added to heal spells
+    * Toxin now causes Toxic in addition to a small chance of Poison
+      * Toxic does more DOT the more turns pass
+      * Sludge has a low chance of Toxic and a high chance of Poison
+        * Bio has a moderate chance to do both
+    * Guard added as secondary Limit to 2nd Job class
+      * Regular guard removed from basic class and 2nd job class
+        * Regular Guard no longer heals/taunts but increased defense by 2x
+          * Limit Guard Skill now has these and also nullifies damage
 * Chest, Expertise and Bank are now randomized to one dungeon instead of spread out between 2 different ones.
   * You will also always fight three enemies instead of having a chance to. 
 
