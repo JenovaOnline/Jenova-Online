@@ -42,6 +42,8 @@ Change-log is incomplete. These notes may change at anytime.
 * Overkill buffed
 * Platinum is no longer obtainable
   * Shadow Medallions are now dropped at a higher rate instead
+* Enemies no longer drop EXP/Gold/Drop Rate Buffs.
+  * These have also been replaced with EXP/Gold/Drop Orbs in the Premium Shops.
 * **Player Balance Patch**
   * All classes now start off with a normalized stat base.
     * Base classes all have the same starting stats
