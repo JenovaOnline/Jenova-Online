@@ -64,6 +64,12 @@ Change-log is incomplete. These notes may change at anytime.
   * Upgrade levels normalized
   * MP Regen on weapons now Magic Reflection
   * Limit breaks no longer on 1st class change
+  * Skill MP costs nerfed
+  * HP cost for Harold Dark Path skills increased
+  * Limit: Blood Slash now does 4 hits instead of one
+  * Mastery Levels decreased to 5 uses per level
+    * Skills now increase MP cost per mastery level
+      * This can be countered and even reduced using the Stat Upgrade system
 
 ### Fixed
 
