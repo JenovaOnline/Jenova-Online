@@ -33,15 +33,14 @@ Change-log is incomplete. These notes may change at anytime.
 ### **Changed**
 
 * Bosses now drop Ultimate Weapon
-* Upgrade levels normalized
-* MP Regen on weapons now Magic Reflection
 * Limit breaks no longer on 1st class change
 * Jenova Death Teleport pad now takes to straight to Forest Town
 * Heretic Battle Music
 * Ice Cave Music slowed
-* EXP Rate removed from Base and 1st Job Stat Upgrades
 * Snow Town is now physically blocked off until you meet the level requirement
-* Player Balance Patch
+* Chest, Expertise and Bank are now randomized to one dungeon instead of spread out between 2 different ones.
+  * You will also always fight three enemies instead of having a chance to.
+* **Player Balance Patch**
   * All classes now start off with a normalized stat base.
     * Base classes all have the same starting stats
     * 1st job paths all have the same starting stats
@@ -61,9 +60,10 @@ Change-log is incomplete. These notes may change at anytime.
     * Guard added as secondary Limit to 2nd Job class
       * Regular guard removed from basic class and 2nd job class
         * Regular Guard no longer heals/taunts but increased defense by 2x
-          * Limit Guard Skill now has these and also nullifies damage
-* Chest, Expertise and Bank are now randomized to one dungeon instead of spread out between 2 different ones.
-  * You will also always fight three enemies instead of having a chance to. 
+          * Limit Guard Skill now has these and also nullifies damage 
+  * EXP Rate removed from Base and 1st Job Stat Upgrades
+  * Upgrade levels normalized
+  * MP Regen on weapons now Magic Reflection
 
 ### Fixed
 
