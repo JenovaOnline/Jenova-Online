@@ -29,6 +29,8 @@ Change-log is incomplete. These notes may change at anytime.
     * Reach area by Airship
 * Teleport Hall
   * Will have access to more and more places as they are discovered.
+* Lost Forest now has a fog effect.
+  * This is just visual, it doesn't have any effect on anything.
 
 ### **Changed**
 
@@ -44,7 +46,7 @@ Change-log is incomplete. These notes may change at anytime.
   * Shadow Medallions are now dropped at a higher rate instead
 * Enemies no longer drop EXP/Gold/Drop Rate Buffs.
   * These have also been replaced with EXP/Gold/Drop Orbs in the Premium Shops.
-  * Forest Town and Norville will only show these once Jenova Death is defeated (you dont have access to Shadow Medallions before this anyway).
+  * Forest Town and Norville will only show these once Jenova Death is defeated \(you dont have access to Shadow Medallions before this anyway\).
 * Forest Town and Norvile Premium Shops change once you finish class change quest or use quest item.
 * **Player Balance Patch**
   * All classes now start off with a normalized stat base.
