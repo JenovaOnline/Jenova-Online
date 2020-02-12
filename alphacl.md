@@ -63,7 +63,7 @@ Change-log is incomplete. These notes may change at anytime.
           * Limit Guard Skill now has these and also nullifies damage 
   * EXP Rate removed from Base and 1st Job Stat Upgrades
   * Upgrade levels normalized
-  * MP Regen on weapons now Magic Reflection
+  * MP Regen on passives now Magic Reflection
   * Limit breaks no longer on 1st class change
   * Skill MP costs nerfed
   * HP cost for Harold Dark Path skills increased
