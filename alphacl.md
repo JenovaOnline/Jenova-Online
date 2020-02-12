@@ -33,7 +33,6 @@ Change-log is incomplete. These notes may change at anytime.
 ### **Changed**
 
 * Bosses now drop Ultimate Weapon
-* Limit breaks no longer on 1st class change
 * Jenova Death Teleport pad now takes to straight to Forest Town
 * Heretic Battle Music
 * Ice Cave Music slowed
@@ -64,6 +63,7 @@ Change-log is incomplete. These notes may change at anytime.
   * EXP Rate removed from Base and 1st Job Stat Upgrades
   * Upgrade levels normalized
   * MP Regen on weapons now Magic Reflection
+  * Limit breaks no longer on 1st class change
 
 ### Fixed
 
