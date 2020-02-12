@@ -39,6 +39,7 @@ Change-log is incomplete. These notes may change at anytime.
 * Snow Town is now physically blocked off until you meet the level requirement
 * Chest, Expertise and Bank are now randomized to one dungeon instead of spread out between 2 different ones.
   * You will also always fight three enemies instead of having a chance to.
+* Overkill buffed
 * **Player Balance Patch**
   * All classes now start off with a normalized stat base.
     * Base classes all have the same starting stats
