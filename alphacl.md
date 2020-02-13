@@ -63,6 +63,8 @@ Change-log is incomplete. These notes may change at anytime.
     * Expert Achievements grant +10 Level Tablets
     * Legendary Achievements grant +50 Level Tablets
     * Godly Achievements grant +100 Level Tablets
+* Abnormal states now only add one element
+* Freeze state stops cooldown of skills
 * **Player Balance Patch**
   * All classes now start off with a normalized stat base.
     * Base classes all have the same starting stats
