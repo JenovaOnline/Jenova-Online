@@ -44,8 +44,15 @@ Change-log is incomplete. These notes may change at anytime.
 * Overkill buffed
 * Platinum is no longer obtainable
   * Shadow Medallions are now dropped at a higher rate instead
+* Characters no longer have elements when changing classes
+  * Most notably: Dark Harold path
+    * This also applies to his Attack Command
+* All weapons have Mark and Orb slots
+  * Only exception is the beginning weapons
+  * Max 2 Glyphs, 4 Marks and 4 Orbs on Ultimate weapons
 * Enemies no longer drop EXP/Gold/Drop Rate Buffs.
   * These have also been replaced with EXP/Gold/Drop Orbs in the Premium Shops.
+    * These can be equipped to your weapons
   * Forest Town and Norville will only show these once Jenova Death is defeated \(you dont have access to Shadow Medallions before this anyway\).
 * Forest Town and Norvile Premium Shops change once you finish class change quest or use quest item.
 * Achievements no longer grant EXP
