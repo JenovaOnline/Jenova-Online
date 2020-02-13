@@ -50,6 +50,7 @@ Change-log is incomplete. These notes may change at anytime.
 * All weapons have Mark and Orb slots
   * Only exception is the beginning weapons
   * Max 2 Glyphs, 4 Marks and 4 Orbs on Ultimate weapons
+  * Glyphs, Orbs and Marks all stack in the bag now
 * Enemies no longer drop EXP/Gold/Drop Rate Buffs.
   * These have also been replaced with EXP/Gold/Drop Orbs in the Premium Shops.
     * These can be equipped to your weapons
