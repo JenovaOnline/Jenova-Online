@@ -70,6 +70,7 @@ Either start a new game \(highly recommended\) or use the Patch Updater if you h
     * Godly Achievements grant +100 Level Tablets
 * Abnormal states now only add one element
 * Freeze state stops cooldown of skills
+
 * **Player Balance Patch**
   * All classes now start off with a normalized stat base.
     * Base classes all have the same starting stats
@@ -90,21 +91,26 @@ Either start a new game \(highly recommended\) or use the Patch Updater if you h
     * Guard added as secondary Limit to 2nd Job class
       * Regular guard removed from basic class and 2nd job class
         * Regular Guard no longer heals/taunts but increased defense by 2x
-          * Limit Guard Skill now has these and also nullifies damage 
-  * EXP Rate removed from Base and 1st Job Stat Upgrades
-  * Upgrade levels normalized
-  * MP Regen on passives now Magic Reflection
-  * Limit breaks no longer on 1st class change
-  * Skill MP costs nerfed
-  * HP cost for Harold Dark Path skills increased
-  * Limit: Blood Slash now does 4 hits instead of one
-  * Mastery Levels decreased to 5 uses per level
-    * Skills now increase MP cost per mastery level
-      * This can be countered and even reduced using the Stat Upgrade system
+          * Limit Guard Skill now has these and also nullifies damage
+            * Limit breaks no longer on 1st class change
+    * EXP Rate removed from Base and 1st Job Stat Upgrades
+    * MP Regen on passives now Magic Reflection
+    * Skill MP costs nerfed
+    * HP cost for Harold Dark Path skills increased
+      * Limit: Blood Slash now does 4 hits instead of one
+
+* Mastery Levels decreased to 5 uses per level
+  * Skills now increase MP cost per mastery level
+    * This can be countered and even reduced using the Stat Upgrade system
+* Upgrade System Revamp
+  * Upgrade Stones replace Upgrade system
+    * Upgrade max 10 times
+    * Upgrade increases all stats by 20% of base for a 200% increase in stats
+    * Upgrade Stones drop from enemies at a low chance (1%)
+    * Upgrade Stones can also be bought from Blacksmith for 1 Silver
 
 ### Fixed
 
-* Luck is now included in Upgrades, like intended
 * Miscellaneous items formula are corrected
 * Never-ending Forest battle bug
 * Black Screen when starting new game
