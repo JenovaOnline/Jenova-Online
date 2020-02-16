@@ -57,14 +57,14 @@ Either start a new game \(highly recommended\) or use the Patch Updater if you h
     * These can be equipped to your weapons
   * Forest Town and Norville will only show these once Jenova Death is defeated \(you don't have access to Shadow Medallions before this anyway\).
 * Forest Town and Norville Premium Shops change once you finish class change quest or use quest item.
-* Achievements no longer grant EXP
-  * They now grant 4 Level Up Tablets
+* Achievements no longer exclusively grant EXP
+  * They now grant 4 EXP Tablets
   * Tablets are split up in 5 different types
-    * Beginner Achievements grant +1 Level Tablets
-    * Intermediate Achievements grant +5 Level Tablets
-    * Expert Achievements grant +10 Level Tablets
-    * Legendary Achievements grant +50 Level Tablets
-    * Godly Achievements grant +100 Level Tablets
+    * Beginner Achievements grant +50 EXP Tablets
+    * Intermediate Achievements grant +100 EXP Tablets
+    * Expert Achievements grant +300 EXP Tablets
+    * Legendary Achievements grant +500 EXP Tablets
+    * Godly Achievements grant +1000 EXP Tablets
 * Abnormal states now only add one element
 * Freeze state stops cool-down of skills
 
