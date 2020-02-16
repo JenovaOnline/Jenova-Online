@@ -48,9 +48,6 @@ Either start a new game \(highly recommended\) or use the Patch Updater if you h
 * Overkill buffed
 * Platinum is no longer obtainable
   * Shadow Medallions are now dropped at a higher rate instead
-* Characters no longer have elements when changing classes
-  * Most notably: Dark Harold path
-    * This also applies to his Attack Command
 * All weapons have Mark and Orb slots
   * Only exception is the beginning weapons
   * Max 2 Glyphs, 4 Marks and 4 Orbs on Ultimate weapons
@@ -70,46 +67,57 @@ Either start a new game \(highly recommended\) or use the Patch Updater if you h
     * Godly Achievements grant +100 Level Tablets
 * Abnormal states now only add one element
 * Freeze state stops cool-down of skills
-* **Player Balance Patch**
-  * All classes now start off with a normalized stat base.
-    * Base classes all have the same starting stats
-    * 1st job paths all have the same starting stats
-    * 2nd jobs paths all have the same starting stats
-  * Class Passives have been buffed/nerfed to maximum of 33% across the board
-    * This excludes Regen-type passives, which have been nerfed to maximum of 3%
-    * Added one trait to each passive due to the nerfs, in range of the class type
-  * Skill damage formulas normalized
-    * A lot of skills have been buffed/nerfed
-      * Biggest change was that all damage formulas now based on the defense of the enemy at 1 times instead of 2 or 3 times
-    * HP/MP heal spells nerfed
-      * HP/MP Regen added to heal spells
-    * Toxin now causes Toxic in addition to a small chance of Poison
-      * Toxic does more DOT the more turns pass
-      * Sludge has a low chance of Toxic and a high chance of Poison
-        * Bio has a moderate chance to do both
-    * Guard added as secondary Limit to 2nd Job class
-      * Regular guard removed from basic class and 2nd job class
-        * Regular Guard no longer heals/taunts but increased defense by 2x
-          * Limit Guard Skill now has these and also nullifies damage
-            * Limit breaks no longer on 1st class change
-    * EXP Rate removed from Base and 1st Job Stat Upgrades
-    * MP Regen on passives now Magic Reflection
-    * Skill MP costs nerfed
-    * HP cost for Harold Dark Path skills increased
-      * Limit: Blood Slash now does 4 hits instead of one
+
+{% hint style="info" %}
+Player Balance Patch
+{% endhint %}
+
+* All classes now start off with a normalized stat base.
+  * Base classes all have the same starting stats
+  * 1st job paths all have the same starting stats
+  * 2nd jobs paths all have the same starting stats
+* Class Passives have been buffed/nerfed to maximum of 33% across the board
+  * This excludes Regen-type passives, which have been nerfed to maximum of 3%
+  * Added one trait to each passive due to the nerfs, in range of the class type
+* Skill damage formulas normalized
+  * A lot of skills have been buffed/nerfed
+    * Biggest change was that all damage formulas now based on the defense of the enemy at 1 times instead of 2 or 3 times
+  * HP/MP heal spells formula changed
+    * HP/MP Regen added to heal spells
+  * Toxin now causes Toxic in addition to a small chance of Poison
+    * Toxic does more DOT the more turns pass
+    * Sludge has a low chance of Toxic and a high chance of Poison
+      * Bio has a moderate chance to do both
+  * Guard added as secondary Limit to 2nd Job class
+    * Regular guard removed from basic class and 2nd job class
+      * Regular Guard no longer heals/taunts but increased defense by 2x
+        * Limit Guard Skill now has these and also nullifies damage
+          * Limit breaks no longer on 1st class change
+  * EXP Rate removed from Base and 1st Job Stat Upgrades
+  * MP Regen on passives now Magic Reflection
+  * Skill MP costs nerfed
+  * HP cost for Harold Dark Path skills increased
+    * Limit: Blood Slash now does 4 hits instead of one
 * Mastery Levels decreased to 5 uses per level
   * Skills now increase MP cost per mastery level
     * This can be countered and even reduced using the Stat Upgrade system
-* Upgrade System Revamp
-  * Upgrade Stones replace Upgrade system
-    * Upgrade max 10 times
-      * Reset Stones can be bought from the Blacksmith for 10 Silver
-  * Upgrade Stones \(Stat Specific\) upgrade specific stats by 10% of base for a  total 100% increase in that stat
-    * Upgrade Stones \(All\) upgrade all stats by 20% of base for a  total 200% increase in all stats
-  * Upgrade Stones \(Stat Specific\) drop from enemies at a low chance \(10%\)
-    * Upgrade Stones \(All\) drop from enemies \(Snow Town and after\) at a very low chance \(1%\) along with Upgrade Stones \(Stat Specific\) 
-  * Upgrade Stones \(Stat Specific\) can also be bought from Blacksmith for 1 Silver
-    * Upgrade Stone \(All\) can be bought at Snow Town and after for 10 Silver
+* Characters no longer have elements when changing classes
+  * Most notably: Dark Harold path
+    * This also applies to his Attack Command
+
+{% hint style="info" %}
+Upgrade System Revamp
+{% endhint %}
+
+* Upgrade Stones replace Upgrade system
+  * Upgrade max 10 times
+    * Reset Stones can be bought from the Blacksmith for 10 Silver
+* Upgrade Stones \(Stat Specific\) upgrade specific stats by 10% of base for a  total 100% increase in that stat
+  * Upgrade Stones \(All\) upgrade all stats by 20% of base for a  total 200% increase in all stats
+* Upgrade Stones \(Stat Specific\) drop from enemies at a low chance \(10%\)
+  * Upgrade Stones \(All\) drop from enemies \(Snow Town and after\) at a very low chance \(1%\) along with Upgrade Stones \(Stat Specific\) 
+* Upgrade Stones \(Stat Specific\) can also be bought from Blacksmith for 1 Silver
+  * Upgrade Stone \(All\) can be bought at Snow Town and after for 10 Silver
 
 ### Fixed
 
