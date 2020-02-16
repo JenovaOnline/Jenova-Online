@@ -122,6 +122,14 @@ Upgrade System Revamp
 * Upgrade Stones \(Stat Specific\) can also be bought from Blacksmith for 1 Silver
   * Upgrade Stone \(All\) can be bought at Snow Town and after for 10 Silver
 
+{% hint style="info" %}
+Inventory Revamp
+{% endhint %}
+
+* Inventory has been drastically changed
+  * Most things have their own Category
+  * This reduces clutter caused by items taking up one slot
+
 ### Fixed
 
 * Miscellaneous items formula are corrected
