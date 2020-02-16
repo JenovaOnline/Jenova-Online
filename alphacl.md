@@ -70,7 +70,6 @@ Either start a new game \(highly recommended\) or use the Patch Updater if you h
     * Godly Achievements grant +100 Level Tablets
 * Abnormal states now only add one element
 * Freeze state stops cooldown of skills
-
 * **Player Balance Patch**
   * All classes now start off with a normalized stat base.
     * Base classes all have the same starting stats
@@ -98,16 +97,19 @@ Either start a new game \(highly recommended\) or use the Patch Updater if you h
     * Skill MP costs nerfed
     * HP cost for Harold Dark Path skills increased
       * Limit: Blood Slash now does 4 hits instead of one
-
 * Mastery Levels decreased to 5 uses per level
   * Skills now increase MP cost per mastery level
     * This can be countered and even reduced using the Stat Upgrade system
 * Upgrade System Revamp
   * Upgrade Stones replace Upgrade system
     * Upgrade max 10 times
-    * Upgrade increases all stats by 20% of base for a 200% increase in stats
-    * Upgrade Stones drop from enemies at a low chance (1%)
-    * Upgrade Stones can also be bought from Blacksmith for 1 Silver
+      * Reset Stones can be bought from the Blacksmith for 10 Silver
+  * Upgrade Stones \(Stat Specific\) upgrade specific stats by 10% of base for a  total 100% increase in that stat
+    * Upgrade Stones \(All\) upgrade all stats by 20% of base for a  total 200% increase in all stats
+  * Upgrade Stones \(Stat Specific\) drop from enemies at a low chance \(10%\)
+    * Upgrade Stones \(All\) drop from enemies \(Snow Town and after\) at a very low chance \(1%\) along with Upgrade Stones \(Stat Specific\) 
+  * Upgrade Stones \(Stat Specific\) can also be bought from Blacksmith for 1 Silver
+    * Upgrade Stone \(All\) can be bought at Snow Town and after for 10 Silver
 
 ### Fixed
 
