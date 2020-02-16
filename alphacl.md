@@ -58,8 +58,8 @@ Either start a new game \(highly recommended\) or use the Patch Updater if you h
 * Enemies no longer drop EXP/Gold/Drop Rate Buffs.
   * These have also been replaced with EXP/Gold/Drop Orbs in the Premium Shops.
     * These can be equipped to your weapons
-  * Forest Town and Norville will only show these once Jenova Death is defeated \(you dont have access to Shadow Medallions before this anyway\).
-* Forest Town and Norvile Premium Shops change once you finish class change quest or use quest item.
+  * Forest Town and Norville will only show these once Jenova Death is defeated \(you don't have access to Shadow Medallions before this anyway\).
+* Forest Town and Norville Premium Shops change once you finish class change quest or use quest item.
 * Achievements no longer grant EXP
   * They now grant 4 Level Up Tablets
   * Tablets are split up in 5 different types
@@ -69,7 +69,7 @@ Either start a new game \(highly recommended\) or use the Patch Updater if you h
     * Legendary Achievements grant +50 Level Tablets
     * Godly Achievements grant +100 Level Tablets
 * Abnormal states now only add one element
-* Freeze state stops cooldown of skills
+* Freeze state stops cool-down of skills
 * **Player Balance Patch**
   * All classes now start off with a normalized stat base.
     * Base classes all have the same starting stats
@@ -122,9 +122,9 @@ Either start a new game \(highly recommended\) or use the Patch Updater if you h
   * Should have been MP Cost instead of MP Regen
 * Switches not activating when defeating Dragon
 * Valley Village Tifa issues
-  * Mentioning Ice Cave when it should be Neverending Forest
-  * Neverending loop when checking progress
-* Neverending Forest Guard not leaving when quest finished
+  * Mentioning Ice Cave when it should be Never-ending Forest
+  * Never-ending loop when checking progress
+* Never-ending Forest Guard not leaving when quest finished
 * Valley Village Guards glitched
 * Ultimate Forest Entrance Crash
 * Fortress City exit not defined
