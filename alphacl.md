@@ -35,6 +35,9 @@ Either start a new game \(highly recommended\) or use the Patch Updater if you h
   * Will have access to more and more places as they are discovered.
 * Lost Forest now has a fog effect.
   * This is just visual, it doesn't have any effect on anything.
+* Dismantle System
+  * Dismantle weapons to get Weapon Dust or a chance of a Upgrade Stone
+    * Weapon Dust can be exchanged at Blacksmith for Upgrade Stones
 
 ### **Changed**
 
