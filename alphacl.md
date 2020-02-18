@@ -23,8 +23,9 @@ Either start a new game \(highly recommended\) or use the Patch Updater if you h
   * Discovery added
     * Get achievement for discovering a place
   * Legendary Achievements added to Ultimate Weapon Area
-    * Legendary Achievements give out 800 EXP \(scales with buffs\)
+    * Legendary Achievements give out 500 EXP \(scales with buffs\)
   * Godly Achievements added to God Realms
+    * Godly Achievements give out 1000 EXP \(scales with buffs\)
   * Legend and Godly Achievements added to Walking and Time Played
 * New Area: Oasis Road
   * Final Ultimate Weapon dungeon before God Realms
