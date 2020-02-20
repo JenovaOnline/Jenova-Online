@@ -71,6 +71,7 @@ Either start a new game \(highly recommended\) or use the Patch Updater if you h
     * Godly Achievements grant +1000 EXP Tablets
 * Abnormal states now only add one element
 * Freeze state stops cool-down of skills
+* Stat Upgrades are nerfed to 15% max for most things
 
 {% hint style="info" %}
 Player Balance Patch
@@ -104,10 +105,12 @@ Player Balance Patch
     * Limit: Blood Slash now does 4 hits instead of one
 * Mastery Levels decreased to 5 uses per level
   * Skills now increase MP cost per mastery level
-    * This can be countered and even reduced using the Stat Upgrade system
+    * This can be countered and even reduced using the Stat Upgrade system or  the Magic Attack Stat
 * Characters no longer have elements when changing classes
   * Most notably: Dark Harold path
     * This also applies to his Attack Command
+* Attributes have been overhauled
+  * Attack/Defense, Magic Attack/Defense, Luck and Agility now affect these stats
 
 {% hint style="info" %}
 Upgrade System Revamp
