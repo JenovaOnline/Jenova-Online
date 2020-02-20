@@ -117,7 +117,7 @@ Upgrade System Revamp
 {% endhint %}
 
 * Upgrade Stones replace Upgrade system
-  * Upgrade max 10 times
+  * Upgrade Max is goes up the better the weapon
     * Reset Stones can be bought from the Blacksmith for 10 Silver
 * Upgrade Stones \(Stat Specific\) upgrade specific stats by 10% of base for a  total 100% increase in that stat
   * Upgrade Stones \(All\) upgrade all stats by 20% of base for a  total 200% increase in all stats
