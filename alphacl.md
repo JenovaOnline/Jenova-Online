@@ -59,6 +59,8 @@ Either start a new game \(highly recommended\) or use the Patch Updater if you h
 * Enemies no longer drop EXP/Gold/Drop Rate Buffs.
   * These have also been replaced with EXP/Gold/Drop Orbs in the Premium Shops.
     * These can be equipped to your weapons
+    * Any and all EXP/Gold/Drop Rate Buffs have now been changed to above stated Orbs
+      * Double Drop/Gold Rate are now Drop/Gold Rate 100% Orbs
   * Forest Town and Norville will only show these once Jenova Death is defeated \(you don't have access to Shadow Medallions before this anyway\).
 * Forest Town and Norville Premium Shops change once you finish class change quest or use quest item.
 * Achievements no longer exclusively grant EXP
