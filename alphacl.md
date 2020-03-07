@@ -119,14 +119,11 @@ Upgrade System Revamp
 {% endhint %}
 
 * Upgrade Stones replace Upgrade system
-  * Upgrade Max is goes up the better the weapon
-    * Reset Stones can be bought from the Blacksmith for 10 Silver
+  * Upgrade Max goes up the better the weapon is
 * Upgrade Stones \(Stat Specific\) upgrade specific stats by 10% of base for a  total 100% increase in that stat
   * Upgrade Stones \(All\) upgrade all stats by 20% of base for a  total 200% increase in all stats
-* Upgrade Stones \(Stat Specific\) drop from enemies at a low chance \(10%\)
-  * Upgrade Stones \(All\) drop from enemies \(Snow Town and after\) at a very low chance \(1%\) along with Upgrade Stones \(Stat Specific\) 
-* Upgrade Stones \(Stat Specific\) can also be bought from Blacksmith for 1 Silver
-  * Upgrade Stone \(All\) can be bought at Snow Town and after for 10 Silver
+* Upgrade Stone Dust  drop from enemies at a low chance
+* Upgrade Stone Dust \(Stat Specific\) can be exchanged for Upgrade Stones \(Stat Specific\) at the Blacksmith
 
 {% hint style="info" %}
 Inventory Revamp
