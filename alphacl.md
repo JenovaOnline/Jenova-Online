@@ -122,7 +122,8 @@ Upgrade System Revamp
   * Upgrade Max goes up the better the weapon is
 * Upgrade Stones \(Stat Specific\) upgrade specific stats by 10% of base for a  total 100% increase in that stat
   * Upgrade Stones \(All\) upgrade all stats by 20% of base for a  total 200% increase in all stats
-* Upgrade Stone Dust  drop from enemies at a low chance
+* Upgrade Stones can be dismantled for Upgrade Stone Dust \(Stat Specific\)
+  * Upgrade Stone Dust also drop from enemies at a low chance
 * Upgrade Stone Dust \(Stat Specific\) can be exchanged for Upgrade Stones \(Stat Specific\) at the Blacksmith
 
 {% hint style="info" %}
