@@ -133,6 +133,17 @@ Inventory Revamp
   * Most things have their own Category
   * This reduces clutter caused by items taking up one slot
 
+{% hint style="info" %}
+Weapon Revamp
+{% endhint %}
+
+* Weapons can be dismantled
+  * Guaranteed Weapon Dust from dismantle
+  * Upgrade Stone Dust \(Stat Specific\) has a low chance of being obtained at a low chance
+* Blacksmiths can craft weapons with Weapon Dust
+  * You can craft weapons before you meet enemies that drop these weapons if you have enough dust
+    * Ultimate Weapons excluded \(for now\)
+
 ### Fixed
 
 * Miscellaneous items formula are corrected
