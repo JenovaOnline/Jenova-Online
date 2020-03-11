@@ -133,6 +133,8 @@ Inventory Revamp
 * Inventory has been drastically changed
   * Most things have their own Category
   * This reduces clutter caused by items taking up one slot
+* Premium Currency is now shown in the menu instead of Inventory
+  * Shadow Medallions will be shown after defeating Jenova Death
 
 {% hint style="info" %}
 Weapon Revamp
