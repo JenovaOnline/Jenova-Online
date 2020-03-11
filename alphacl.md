@@ -38,7 +38,7 @@ Either start a new game \(highly recommended\) or use the Patch Updater if you h
   * This is just visual, it doesn't have any effect on anything.
 * Dismantle System
   * Dismantle weapons to get Weapon Dust or a chance of a Upgrade Stone
-    * Weapon Dust can be exchanged at Blacksmith for Upgrade Stones
+    * Weapon Dust can be exchanged at Blacksmith for better weapons
 
 ### **Changed**
 
@@ -120,8 +120,8 @@ Upgrade System Revamp
 
 * Upgrade Stones replace Upgrade system
   * Upgrade Max goes up the better the weapon is
-* Upgrade Stones \(Stat Specific\) upgrade specific stats by 10% of base for a  total 100% increase in that stat
-  * Upgrade Stones \(All\) upgrade all stats by 20% of base for a  total 200% increase in all stats
+* Upgrade Stones \(Stat Specific\) upgrade specific stats by 10% of base
+  * Upgrade Stones \(All\) upgrade all stats by 20% of base
 * Upgrade Stones can be dismantled for Upgrade Stone Dust \(Stat Specific\)
   * Upgrade Stone Dust also drop from enemies at a low chance
 * Upgrade Stone Dust \(Stat Specific\) can be exchanged for Upgrade Stones \(Stat Specific\) at the Blacksmith
@@ -132,7 +132,7 @@ Inventory Revamp
 
 * Inventory has been drastically changed
   * Most things have their own Category
-  * This reduces clutter caused by items taking up one slot
+  * This reduces clutter caused by items (like weapons) which are non-individual
 * Premium Currency is now shown in the menu instead of Inventory
   * Shadow Medallions will be shown after defeating Jenova Death
 
