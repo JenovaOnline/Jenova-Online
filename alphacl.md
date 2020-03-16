@@ -73,7 +73,6 @@ Either start a new game \(highly recommended\) or use the Patch Updater if you h
     * Godly Achievements grant +1000 EXP Tablets
 * Abnormal states now only add one element
 * Freeze state stops cool-down of skills
-* Stat Upgrades are nerfed to 15% max for most things
 
 {% hint style="info" %}
 Player Balance Patch
@@ -175,4 +174,6 @@ Weapon Revamp
   * Shadow Tower \(Bank\)
     * Shadow Tower \(Expertise\) is now the only option \(Renamed "Shadow Tower"\)
 * Temple Area
+* Stat Upgrade Special Attributes
+  * Regular stats are still available
 
