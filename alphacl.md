@@ -116,6 +116,7 @@ Player Balance Patch
     * This also applies to his Attack Command
 * Attributes have been overhauled
   * Attack/Defense, Magic Attack/Defense, Luck and Agility now affect these stats
+* Cloud/Arieth buffs nerfed to 15%
 
 {% hint style="info" %}
 Upgrade System Revamp
