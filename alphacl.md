@@ -105,8 +105,8 @@ Player Balance Patch
   * HP cost for Harold Dark Path skills increased
     * Limit: Blood Slash now does 4 hits instead of one
       * Damage formula is now: a.atk \* 2 instead of a.atk \* 8
-  * Rush now deals 8 hits
-    * Damage formula is now: a.atk instead of a.atk \* 8
+  * Rush now deals 7 hits
+    * Damage formula is now: a.atk \* 1.1 instead of a.atk \* 8
 * Mastery Levels decreased to 5 uses per level
   * Skills now increase MP cost per mastery level
     * This can be countered and even reduced using the Stat Upgrade system or  the Magic Attack Stat
