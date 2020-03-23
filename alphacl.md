@@ -168,6 +168,7 @@ Weapon Revamp
 * Valley Village Guards glitched
 * Ultimate Forest Entrance Crash
 * Fortress City exit not defined
+* SP not persisting between class changes
 
 ### Removed
 
