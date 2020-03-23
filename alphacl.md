@@ -21,11 +21,13 @@ Either start a new game \(highly recommended\) or use the Patch Updater if you h
   * Stat increase nerfed to 15%
 * Achievement Update
   * Discovery added
-    * Get achievement for discovering a place
+    * Get Achievement EXP and SP for discovering a place
+      * Smaller EXP reward then regular achievements
+        * Achievement type is escalated the further you get in game, up to Legendary
   * Legendary Achievements added to Ultimate Weapon Area
-    * Legendary Achievements give out 500 EXP \(scales with buffs\)
+    * Legendary Achievements give out +200 EXP to entire party \(scales with buffs\)
   * Godly Achievements added to God Realms
-    * Godly Achievements give out 1000 EXP \(scales with buffs\)
+    * Godly Achievements give out +400 EXP to entire party \(scales with buffs\)
   * Legend and Godly Achievements added to Walking and Time Played
 * New Area: Oasis Road
   * Final Ultimate Weapon dungeon before God Realms
@@ -33,9 +35,9 @@ Either start a new game \(highly recommended\) or use the Patch Updater if you h
   * Endgame content
     * Reach area by Airship
 * Teleport Hall
-  * Will have access to more and more places as they are discovered.
-* Lost Forest now has a fog effect.
-  * This is just visual, it doesn't have any effect on anything.
+  * Will have access to more and more places as they are discovered
+* Lost Forest now has a fog effect
+  * This is just visual, it doesn't have any effect on anything
 * Dismantle System
   * Dismantle weapons to get Weapon Dust or a chance of a Upgrade Stone
     * Weapon Dust can be exchanged at Blacksmith for better weapons
@@ -48,7 +50,7 @@ Either start a new game \(highly recommended\) or use the Patch Updater if you h
 * Ice Cave Music slowed
 * Snow Town is now physically blocked off until you meet the level requirement
 * Chest, Expertise and Bank are now randomized to one dungeon instead of spread out between 2 different ones.
-  * You will also always fight three enemies instead of having a chance to.
+  * You will also always fight three enemies instead of having a chance to
 * Overkill buffed
 * Platinum is no longer obtainable
   * Shadow Medallions are now dropped at a higher rate instead
@@ -61,16 +63,15 @@ Either start a new game \(highly recommended\) or use the Patch Updater if you h
     * These can be equipped to your weapons
     * Any and all EXP/Gold/Drop Rate Buffs have now been changed to above stated Orbs
       * Double Drop/Gold Rate are now Drop/Gold Rate 100% Orbs
-  * Forest Town and Norville will only show these once Jenova Death is defeated \(you don't have access to Shadow Medallions before this anyway\).
-* Forest Town and Norville Premium Shops change once you finish class change quest or use quest item.
-* Achievements no longer exclusively grant EXP
-  * They now grant 4 EXP Tablets
-  * Tablets are split up in 5 different types
-    * Beginner Achievements grant +50 EXP Tablets
-    * Intermediate Achievements grant +100 EXP Tablets
-    * Expert Achievements grant +300 EXP Tablets
-    * Legendary Achievements grant +500 EXP Tablets
-    * Godly Achievements grant +1000 EXP Tablets
+  * Forest Town and Norville will only show these once Jenova Death is defeated \(you don't have access to Shadow Medallions before this anyway\)
+* Forest Town and Norville Premium Shops change once you finish class change quest or use quest item
+* Achievements EXP nerfed
+  * Beginner
+    * +25 EXP to entire party
+  * Intermediate
+    * +50 EXP to entire party
+  * Expert
+    * +100 EXP to entire party
 * Abnormal states now only add one element
 * Freeze state stops cool-down of skills
 
@@ -78,7 +79,7 @@ Either start a new game \(highly recommended\) or use the Patch Updater if you h
 Player Balance Patch
 {% endhint %}
 
-* All classes now start off with a normalized stat base.
+* All classes now start off with a normalized stat base
   * Base classes all have the same starting stats
   * 1st job paths all have the same starting stats
   * 2nd jobs paths all have the same starting stats
