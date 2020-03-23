@@ -41,6 +41,8 @@ Either start a new game \(highly recommended\) or use the Patch Updater if you h
 * Dismantle System
   * Dismantle weapons to get Weapon Dust or a chance of a Upgrade Stone
     * Weapon Dust can be exchanged at Blacksmith for better weapons
+  * Dismantler can be obtained from Blacksmith
+    * Icon will appear over building when you don't have the item
 
 ### **Changed**
 
