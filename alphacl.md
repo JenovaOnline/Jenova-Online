@@ -151,6 +151,13 @@ Weapon Revamp
   * You can craft weapons before you meet enemies that drop these weapons if you have enough dust
     * Ultimate Weapons excluded \(for now\)
 
+{% hint style="info" %}
+Battle UI Revamp
+{% endhint %}
+
+* Battle UI has been updated for a sleeker look
+* Turn Order Display has been moved to the left side of the screen
+
 ### Fixed
 
 * Miscellaneous items formula are corrected
