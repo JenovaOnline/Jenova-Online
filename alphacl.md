@@ -76,6 +76,9 @@ Either start a new game \(highly recommended\) or use the Patch Updater if you h
     * +100 EXP to entire party
 * Abnormal states now only add one element
 * Freeze state stops cool-down of skills
+* Difficulty Slider Min/Max
+  * Minimum: 50%
+  * Maximum: 150%
 
 {% hint style="info" %}
 Player Balance Patch
