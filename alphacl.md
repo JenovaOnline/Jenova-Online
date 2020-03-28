@@ -105,7 +105,6 @@ Player Balance Patch
       * Regular Guard no longer heals/taunts but increased defense by 2x
         * Limit Guard Skill now has these and also nullifies damage
           * Limit breaks no longer on 1st class change
-  * EXP Rate removed from Base and 1st Job Stat Upgrades
   * MP Regen on passives now Magic Reflection
   * Skill MP costs nerfed
   * HP cost for Harold Dark Path skills increased
@@ -170,8 +169,6 @@ Battle UI Revamp
 * Black Screen when starting new game
 * Snow Town Level Requirement
 * Ice Cave Guards
-* Emissary Stat Gauge duplication
-  * Should have been MP Cost instead of MP Regen
 * Switches not activating when defeating Dragon
 * Valley Village Tifa issues
   * Mentioning Ice Cave when it should be Never-ending Forest
@@ -189,5 +186,7 @@ Battle UI Revamp
     * Shadow Tower \(Expertise\) is now the only option \(Renamed "Shadow Tower"\)
 * Temple Area
 * Stat Upgrade Special Attributes
+  * EXP removed as well
+    * This is due to the fact EXP rate goes up as you level up
   * Regular stats are still available
 
