@@ -88,9 +88,9 @@ Player Balance Patch
   * Base classes all have the same starting stats
   * 1st job paths all have the same starting stats
   * 2nd jobs paths all have the same starting stats
-* Class Passives have been buffed/nerfed to maximum of 33% across the board
-  * This excludes Regen-type passives, which have been nerfed to maximum of 3%
-  * Added one trait to each passive due to the nerfs, in range of the class type
+* Class Passives have been buffed/nerfed to maximum of 33% for all regular stats
+  * Class passive attributes have been removed
+    * This is due to abuse at endgame
 * Skill damage formulas normalized
   * A lot of skills have been buffed/nerfed
     * Biggest change was that all damage formulas now based on the defense of the enemy at 1 times instead of 2 or 3 times
@@ -121,6 +121,9 @@ Player Balance Patch
 * Attributes have been overhauled
   * Attack/Defense, Magic Attack/Defense, Luck and Agility now affect these stats
 * Cloud/Arieth buffs nerfed to 15%
+ * Arieth no longer increases attributes
+   * She now increases SP rate exponentially
+     * She will fully heal you anytime after you get the buff
 
 {% hint style="info" %}
 Upgrade System Revamp
@@ -189,4 +192,3 @@ Battle UI Revamp
   * EXP removed as well
     * This is due to the fact EXP rate goes up as you level up
   * Regular stats are still available
-
