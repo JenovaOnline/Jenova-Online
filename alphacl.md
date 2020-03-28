@@ -121,9 +121,9 @@ Player Balance Patch
 * Attributes have been overhauled
   * Attack/Defense, Magic Attack/Defense, Luck and Agility now affect these stats
 * Cloud/Arieth buffs nerfed to 15%
- * Arieth no longer increases attributes
-   * She now increases SP rate exponentially
-     * She will fully heal you anytime after you get the buff
+  * Arieth no longer increases attributes
+    * She now increases SP rate exponentially
+      * She will fully heal you anytime after you get the buff
 
 {% hint style="info" %}
 Upgrade System Revamp
