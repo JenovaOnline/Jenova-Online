@@ -91,6 +91,8 @@ Player Balance Patch
 * Class Passives have been buffed/nerfed to maximum of 33% for all regular stats
   * Class passive attributes have been removed
     * This is due to abuse at endgame
+    * Other attributes have been added 
+      * These attributes either have a chance to cause a abnormal status or apply a state that lowers a stat
 * Skill damage formulas normalized
   * A lot of skills have been buffed/nerfed
     * Biggest change was that all damage formulas now based on the defense of the enemy at 1 times instead of 2 or 3 times
@@ -120,10 +122,9 @@ Player Balance Patch
     * This also applies to his Attack Command
 * Attributes have been overhauled
   * Attack/Defense, Magic Attack/Defense, Luck and Agility now affect these stats
-* Cloud/Arieth buffs nerfed to 15%
-  * Arieth no longer increases attributes
-    * She now increases SP rate exponentially
-      * She will fully heal you anytime after you get the buff
+* Arieth buffs nerfed to 15%
+  * Cloud no longer increases attributes
+    * He now increases SP rate exponentiall
 
 {% hint style="info" %}
 Upgrade System Revamp
@@ -192,3 +193,4 @@ Battle UI Revamp
   * EXP removed as well
     * This is due to the fact EXP rate goes up as you level up
   * Regular stats are still available
+
