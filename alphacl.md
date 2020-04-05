@@ -126,7 +126,7 @@ Player Balance Patch
   * Attack/Defense, Magic Attack/Defense, Luck and Agility now affect these stats
 * Arieth buffs nerfed to 15%
   * Cloud no longer increases attributes
-    * He now increases SP rate exponentiall
+    * He now increases SP rate exponentially
 
 {% hint style="info" %}
 Upgrade System Revamp
