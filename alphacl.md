@@ -43,6 +43,7 @@ Either start a new game \(highly recommended\) or use the Patch Updater if you h
     * Weapon Dust can be exchanged at Blacksmith for better weapons
   * Dismantler can be obtained from Blacksmith
     * Icon will appear over building when you don't have the item
+* Area in menu shows Silver, Shadow Medallions and quest requirements when needed
 
 ### **Changed**
 
@@ -79,6 +80,7 @@ Either start a new game \(highly recommended\) or use the Patch Updater if you h
 * Difficulty Slider Min/Max
   * Minimum: 50%
   * Maximum: 150%
+* Tifa no longer passes quests off to Barrett
 
 {% hint style="info" %}
 Player Balance Patch
