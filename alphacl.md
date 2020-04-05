@@ -109,7 +109,6 @@ Player Balance Patch
       * Regular Guard no longer heals/taunts but increased defense by 2x
         * Limit Guard Skill now has these and also nullifies damage
           * Limit breaks no longer on 1st class change
-  * MP Regen on passives now Magic Reflection
   * Skill MP costs nerfed
   * HP cost for Harold Dark Path skills increased
     * Limit: Blood Slash now does 4 hits instead of one
@@ -146,7 +145,7 @@ Inventory Revamp
 
 * Inventory has been drastically changed
   * Most things have their own Category
-  * This reduces clutter caused by items \(like weapons\) which are non-individual
+    * This reduces clutter caused by items \(like weapons\) which are non-individual
 * Premium Currency is now shown in the menu instead of Inventory
   * Shadow Medallions will be shown after defeating Jenova Death
 
