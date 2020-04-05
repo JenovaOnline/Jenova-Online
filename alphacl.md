@@ -117,7 +117,7 @@ Player Balance Patch
     * Damage formula is now: a.atk \* 1.1 instead of a.atk \* 8
 * Mastery Levels decreased to 5 uses per level
   * Skills now increase MP cost per mastery level
-    * This can be countered and even reduced using the Stat Upgrade system or  the Magic Attack Stat
+    * This can be countered and even reduced using the Stat Upgrade system (Magic Attack Stat)
 * Characters no longer have elements when changing classes
   * Most notably: Dark Harold path
     * This also applies to his Attack Command
