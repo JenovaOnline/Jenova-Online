@@ -4,6 +4,10 @@ description: This is the beginning of Alpha. Lots of changes in this version.
 
 # Alpha Change-log
 
+{% hint style="warning" %}
+Change-log is incomplete. These notes may change at anytime.
+{% endhint %}
+
 {% hint style="danger" %}
 Either start a new game \(highly recommended\) or use the Patch Updater if you have a save file.
 {% endhint %}
