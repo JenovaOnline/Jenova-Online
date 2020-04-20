@@ -213,3 +213,9 @@ This changelog can be updated and changed at any time. Please watch the space be
   * God Weapons added to Blacksmith
     * Obtainable after beating Final Ultimate weapon boss
 
+### Fixed
+
+* Orbs, Marks and Glyphs did not remove the effects after detachment
+
+
+
