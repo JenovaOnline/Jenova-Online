@@ -217,5 +217,7 @@ This changelog can be updated and changed at any time. Please watch the space be
 
 * Orbs, Marks and Glyphs did not remove the effects after detachment
 
+### Removed
 
+* Nothing yet.
 
