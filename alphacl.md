@@ -210,7 +210,8 @@ This changelog can be updated and changed at any time. Please watch the space be
 
 * Blacksmith now sells weapon boxes with tiered random weapons being granted
   * Cost doubled from original weapon cost
-  * God Weapons added to Blacksmith
+  * God Weapons added to Blacksmith 
+    * Only Ultimate Area Blacksmiths
     * Obtainable after beating Final Ultimate weapon boss
 
 ### Fixed
