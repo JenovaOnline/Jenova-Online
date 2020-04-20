@@ -1,18 +1,14 @@
 ---
-description: This is the beginning of Alpha. Lots of changes in this version.
+description: This is the changelog of Alpha.
 ---
 
-# Alpha Change-log
-
-{% hint style="warning" %}
-Change-log is incomplete. These notes may change at anytime.
-{% endhint %}
+# Alpha Changelog
 
 {% hint style="danger" %}
 Either start a new game \(highly recommended\) or use the Patch Updater if you have a save file.
 {% endhint %}
 
-## 1.0.0 - RELEASED: 4/14/20
+## 1.0 - RELEASED: 4/14/20
 
 ### Added
 
@@ -197,4 +193,23 @@ Battle UI Revamp
   * EXP removed as well
     * This is due to the fact EXP rate goes up as you level up
   * Regular stats are still available
+
+~end~
+
+{% hint style="warning" %}
+This changelog can be updated and changed at any time. Please watch the space below for updates.
+{% endhint %}
+
+## 1.1 - UNRELEASED
+
+### **Added**
+
+* Nothing Yet
+
+### Changed
+
+* Blacksmith now sells weapon boxes with tiered random weapons being granted
+  * Cost doubled from original weapon cost
+  * God Weapons added to Blacksmith
+    * Obtainable after beating Final Ultimate weapon boss
 
