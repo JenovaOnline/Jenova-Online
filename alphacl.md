@@ -200,7 +200,7 @@ Battle UI Revamp
 This changelog can be updated and changed at any time. Please watch the space below for updates.
 {% endhint %}
 
-## 1.1 - RELEASED: 4/20/20 \(Queued\)
+## 1.0 \(Part 2\) - RELEASED: 4/20/20 \(Combined with 1.0\)
 
 ### **Added**
 
