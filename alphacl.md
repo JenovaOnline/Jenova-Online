@@ -194,11 +194,6 @@ Battle UI Revamp
     * This is due to the fact EXP rate goes up as you level up
   * Regular stats are still available
 
-~end~
-
-{% hint style="warning" %}
-This changelog can be updated and changed at any time. Please watch the space below for updates.
-{% endhint %}
 
 ## 1.0 \(Part 2\) - RELEASED: 4/20/20 \(Combined with 1.0\)
 
