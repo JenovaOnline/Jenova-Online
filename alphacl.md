@@ -8,6 +8,46 @@ description: This is the changelog of Alpha.
 Either start a new game \(highly recommended\) or use the Patch Updater if you have a save file.
 {% endhint %}
 
+## 1.1 - UNRELEASED
+
+### **Added**
+
+* Nothing Yet
+
+### Changed
+
+* Nothing Yet
+
+### Fixed
+
+* Nothing Yet
+
+### Removed
+
+* Nothing yet.
+
+## 1.0 \(Part 2\) - RELEASED: 4/20/20 \(Combined with 1.0\)
+
+### **Added**
+
+* Nothing Yet
+
+### Changed
+
+* Blacksmith now sells weapon boxes with tiered random weapons being granted
+  * Cost doubled from original weapon cost
+  * God Weapons added to Blacksmith 
+    * Only Ultimate Area Blacksmiths
+    * Obtainable after beating Final Ultimate weapon boss
+
+### Fixed
+
+* Orbs, Marks and Glyphs did not remove the effects after detachment
+
+### Removed
+
+* Nothing yet.
+
 ## 1.0 - RELEASED: 4/14/20
 
 ### Added
@@ -194,26 +234,5 @@ Battle UI Revamp
     * This is due to the fact EXP rate goes up as you level up
   * Regular stats are still available
 
-
-## 1.0 \(Part 2\) - RELEASED: 4/20/20 \(Combined with 1.0\)
-
-### **Added**
-
-* Nothing Yet
-
-### Changed
-
-* Blacksmith now sells weapon boxes with tiered random weapons being granted
-  * Cost doubled from original weapon cost
-  * God Weapons added to Blacksmith 
-    * Only Ultimate Area Blacksmiths
-    * Obtainable after beating Final Ultimate weapon boss
-
-### Fixed
-
-* Orbs, Marks and Glyphs did not remove the effects after detachment
-
-### Removed
-
-* Nothing yet.
+## 
 
