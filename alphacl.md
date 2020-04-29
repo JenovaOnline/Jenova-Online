@@ -24,6 +24,9 @@ Either start a new game \(highly recommended\) or use the Patch Updater if you h
 * Enemy regular attacks now ignore defense
   * Skills still are affected by defense
     * This may change at a later date
+* EXP requirements adjusted
+  * Requirements get higher as you class change
+    * This may result in losing a few levels to make up for the new requirements
 
 ### Fixed
 
