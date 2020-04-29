@@ -4,6 +4,10 @@ description: This is the changelog of Alpha.
 
 # Alpha Changelog
 
+{% hint style="warning" %}
+Change-log is incomplete. These notes may change at anytime.
+{% endhint %}
+
 {% hint style="danger" %}
 Either start a new game \(highly recommended\) or use the Patch Updater if you have a save file.
 {% endhint %}
