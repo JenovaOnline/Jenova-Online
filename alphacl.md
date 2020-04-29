@@ -12,11 +12,14 @@ Either start a new game \(highly recommended\) or use the Patch Updater if you h
 
 ### **Added**
 
-* Nothing Yet
+* Forest Town Side Quests
+  * Complete townspeople quests for EXP, Gold, Items and SP
 
 ### Changed
 
-* Nothing Yet
+* Enemy regular attacks now ignore defense
+  * Skills still are affected by defense
+    * This may change at a later date
 
 ### Fixed
 
