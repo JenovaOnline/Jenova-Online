@@ -33,7 +33,7 @@ Either start a new game \(highly recommended\) or use the Patch Updater if you h
 
 ### Fixed
 
-* Nothing Yet
+* Buying items with less then the required amount
 
 ### Removed
 
