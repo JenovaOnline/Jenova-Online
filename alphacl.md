@@ -18,6 +18,9 @@ Either start a new game \(highly recommended\) or use the Patch Updater if you h
 
 * Forest Town Side Quests
   * Complete townspeople quests for EXP, Gold, Items and SP
+* Stronger Dismantlers
+  * Increases success rate of dust drops
+  * Buy from Blacksmith for Weapon Dust
 
 ### Changed
 
