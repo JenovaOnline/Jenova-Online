@@ -12,6 +12,25 @@ Change-log is incomplete. These notes may change at anytime.
 Either start a new game \(highly recommended\) or use the Patch Updater if you have a save file.
 {% endhint %}
 
+## 1.2 - UNRELEASED
+
+### Added
+
+* Nothing Yet
+
+### Changed
+
+* Nothing Yet
+
+### Fixed
+
+* Quest in Forest Town \(Lady\) not completing quest even when all items are obtained.
+  * Egg. ಠ╭╮ಠ
+
+### Removed
+
+* Nothing Yet
+
 ## 1.1 - RELEASED: 5/5/20
 
 ### **Added**
