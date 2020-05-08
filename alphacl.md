@@ -16,7 +16,7 @@ Either start a new game \(highly recommended\) or use the Patch Updater if you h
 
 ### Added
 
-* Nothing Yet
+* Sorting Hat \(Item, weapon, skill and shop sorting\)
 
 ### Changed
 
