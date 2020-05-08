@@ -20,7 +20,8 @@ Either start a new game \(highly recommended\) or use the Patch Updater if you h
 
 ### Changed
 
-* Nothing Yet
+* Enemy Stat Increase per Level doubled
+  * Enemy Attack no longer ignores defense
 
 ### Fixed
 
