@@ -17,6 +17,10 @@ Either start a new game \(highly recommended\) or use the Patch Updater if you h
 ### Added
 
 * Sorting Hat \(Item, weapon, skill and shop sorting\)
+* Quest System
+  * This includes original Main Quest for better direction
+* Enhanced Dialog system
+  * This allows for enhanced dialog in the future
 
 ### Changed
 
