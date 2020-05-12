@@ -25,6 +25,7 @@ Either start a new game \(highly recommended\) or use the Patch Updater if you h
 
 * Enemy Stat Increase per Level doubled
   * Enemy Attack no longer ignores defense
+* SP for Stat Upgrades doubled.
 
 ### Fixed
 
