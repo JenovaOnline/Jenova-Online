@@ -20,6 +20,8 @@ Either start a new game \(highly recommended\) or use the Patch Updater if you h
   * This includes original Main Quest for better direction
 * Enhanced Dialog system
   * This allows for enhanced dialog in the future
+* Nature System
+  * Give a buff/nerf based on the nature 
 
 ### Changed
 
