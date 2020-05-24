@@ -30,11 +30,15 @@ Either start a new game \(highly recommended\) or use the Patch Updater if you h
 * SP for Stat Upgrades doubled.
   * SP per class capped at 500
 * Overkill bonuses increased to max allowed \(+100%\)
+* Weekend Shop -> Prize Wheel
+  * Notification added (purple)
+  * Can "spin" once per day on the weekends
 
 ### Fixed
 
 * Quest in Forest Town \(Lady\) not completing quest even when all items are obtained.
   * Egg. ಠ╭╮ಠ
+* Element rates not being reflected in status window
 
 ### Removed
 
