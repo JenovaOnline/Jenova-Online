@@ -21,7 +21,7 @@ Either start a new game \(highly recommended\) or use the Patch Updater if you h
 * Enhanced Dialog system
   * This allows for enhanced dialog in the future
 * Nature System
-  * Give a buff/nerf based on the nature 
+  * Give a buff/nerf based on the nature
 
 ### Changed
 
@@ -33,6 +33,7 @@ Either start a new game \(highly recommended\) or use the Patch Updater if you h
 * Weekend Shop -> Prize Wheel
   * Notification added (purple)
   * Can "spin" once per day on the weekends
+  * Prize Wheel added to Ultimate Towns
 
 ### Fixed
 
