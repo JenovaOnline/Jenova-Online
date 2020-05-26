@@ -21,7 +21,7 @@ Either start a new game \(highly recommended\) or use the Patch Updater if you h
 * Enhanced Dialog system
   * This allows for enhanced dialog in the future
 * Nature System
-  * Give a buff/nerf based on the nature
+  * Give a buff based on the nature
 
 ### Changed
 
@@ -37,12 +37,16 @@ Either start a new game \(highly recommended\) or use the Patch Updater if you h
 * EXP requirements reverted back
   * Loss of levels was too great
   * EXP table across all characters may be adjusted in the future
+* Special Stats increase normalized per base stat point
+  * This also goes for EXP gain per level
 
 ### Fixed
 
 * Quest in Forest Town \(Lady\) not completing quest even when all items are obtained.
   * Egg. ಠ╭╮ಠ
 * Element rates not being reflected in status window
+* All status % not shown in window
+* Jenova Death music error
 
 ### Removed
 
