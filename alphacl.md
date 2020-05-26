@@ -30,10 +30,13 @@ Either start a new game \(highly recommended\) or use the Patch Updater if you h
 * SP for Stat Upgrades doubled.
   * SP per class capped at 500
 * Overkill bonuses increased to max allowed \(+100%\)
-* Weekend Shop -> Prize Wheel
-  * Notification added (purple)
+* Weekend Shop -&gt; Prize Wheel
+  * Notification added \(purple\)
   * Can "spin" once per day on the weekends
   * Prize Wheel added to Ultimate Towns
+* EXP requirements reverted back
+  * Loss of levels was too great
+  * EXP table across all characters may be adjusted in the future
 
 ### Fixed
 
@@ -279,6 +282,4 @@ Battle UI Revamp
   * EXP removed as well
     * This is due to the fact EXP rate goes up as you level up
   * Regular stats are still available
-
-## 
 
