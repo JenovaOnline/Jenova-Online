@@ -34,9 +34,7 @@ Either start a new game \(highly recommended\) or use the Patch Updater if you h
   * Notification added \(purple\)
   * Can "spin" once per day on the weekends
   * Prize Wheel added to Ultimate Towns
-* EXP requirements reverted back
-  * Loss of levels was too great
-  * EXP table across all characters may be adjusted in the future
+* EXP requirements adjusted
 * Special Stats increase normalized per base stat point
   * This also goes for EXP gain per level
 
