@@ -36,6 +36,7 @@ Either start a new game \(highly recommended\) or use the Patch Updater if you h
   * Prize Wheel added to Ultimate Towns
 * EXP requirements adjusted
   * EXP increase per level drastically increased due to this
+    * Should be at +1% EXP rate per level now
 * Special Stats increase normalized per base stat point
   * This also goes for EXP gain per level
 * Lost Maze enemies level minimum
