@@ -12,7 +12,7 @@ Change-log is incomplete. These notes may change at anytime.
 Either start a new game \(highly recommended\) or use the Patch Updater if you have a save file.
 {% endhint %}
 
-## 1.2 - UNRELEASED
+## 1.2 - RELEASED: 5/28/20
 
 ### Added
 
