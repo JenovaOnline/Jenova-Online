@@ -35,8 +35,11 @@ Either start a new game \(highly recommended\) or use the Patch Updater if you h
   * Can "spin" once per day on the weekends
   * Prize Wheel added to Ultimate Towns
 * EXP requirements adjusted
+  * EXP increase per level drastically increased due to this
 * Special Stats increase normalized per base stat point
   * This also goes for EXP gain per level
+* Lost Maze enemies level minimum
+  * From none to 35
 
 ### Fixed
 
