@@ -18,6 +18,8 @@ Either start a new game \(highly recommended\) or use the Patch Updater if you h
 
 * Quest System
   * This includes original Main Quest for better direction
+  * Forest Town Side Quests only available
+    * Will add more in upcoming updates
 * Enhanced Dialog system
   * This allows for enhanced dialog in the future
 * Nature System
