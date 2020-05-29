@@ -47,6 +47,7 @@ Either start a new game \(highly recommended\) or use the Patch Updater if you h
 * Element rates not being reflected in status window
 * All status % not shown in window
 * Jenova Death music error
+* Ability to teleport when using a Boat, Ship or Airship
 
 ### Removed
 
