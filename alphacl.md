@@ -21,8 +21,11 @@ Either start a new game \(highly recommended\) or use the Patch Updater if you h
 ### Changed
 
 * Special Attributes nerfed hard
-* Harold \(Dark Path\) attacks ignore 100% -&gt; 50% Damage
+* Harold \(Dark Path\) attacks 
+  * Ignore 100% -&gt; 50% Damage
   * HP required for attacks cut in half
+  * HP Gained on Bleed enemy 50% -&gt; 10% of attack
+  * Bleed chance increased by %50
   * Limit now takes 75% of max HP away
     * Still ignores 100% Defense
 * Mastery Formulas 
