@@ -20,7 +20,17 @@ Either start a new game \(highly recommended\) or use the Patch Updater if you h
 
 ### Changed
 
-* Nothing Yet
+* Special Attributes nerfed hard
+* Harold \(Dark Path\) attacks ignore 100% -&gt; 50% Damage
+  * HP required for attacks cut in half
+  * Limit not affected
+* Mastery Formulas 
+  * MP increase per level
+    * Tier 1 skills: 1% -&gt; 10% per level
+    * Tier 2 skills: 2% -&gt; 20% per level
+    * Tier 3 skills: 3% -&gt; 30% per level
+  * Damage formula buffed
+    * +5% -&gt; +10% per level
 
 ### Fixed
 
