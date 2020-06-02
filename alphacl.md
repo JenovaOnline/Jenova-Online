@@ -16,7 +16,8 @@ Either start a new game \(highly recommended\) or use the Patch Updater if you h
 
 ### Added
 
-* Nothing Yet
+* EXP Stat Upgrade makes a return!
+  * Stat points required per level increased exponentially
 
 ### Changed
 
