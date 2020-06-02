@@ -34,7 +34,7 @@ Either start a new game \(highly recommended\) or use the Patch Updater if you h
 
 ### Fixed
 
-* Nothing Yet
+* Intelligence passive: 16% MAT -&gt; 6% MAT increase
 
 ### Removed
 
