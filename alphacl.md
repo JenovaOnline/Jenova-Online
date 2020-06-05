@@ -36,8 +36,8 @@ Either start a new game \(highly recommended\) or use the Patch Updater if you h
     * Tier 3 skills: 3% -&gt; 30% per level
   * Damage formula buffed
     * +5% -&gt; +10% per level
-* Chaos now has the safe effects as Undead
-* EXP requirements slightly adjusted
+* Chaos now has the same effects as Undead
+* EXP requirements adjusted, again!
 
 ### Fixed
 
