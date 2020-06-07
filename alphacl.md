@@ -19,6 +19,8 @@ Either start a new game \(highly recommended\) or use the Patch Updater if you h
 * EXP Stat Upgrade makes a return!
   * Stat points required per level increased exponentially
 * Armor makes an appearance!
+  * Weapons nerfed heavily
+    * Matching Armor, Accessories and Weapons have a set effect that boosts some stats.
 
 ### Changed
 
@@ -48,9 +50,8 @@ Either start a new game \(highly recommended\) or use the Patch Updater if you h
   * Chest gives out more Gold/EXP per level
   * Bank gives out more Gold per level
 * Iconset updated
-* Weapons nerfed heavily
-  * Due to armor being implemented
-  * Matching Armor, Accessories and Weapons have a set effect that boosts some stats.
+
+
 
 ### Fixed
 
