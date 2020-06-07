@@ -38,6 +38,9 @@ Either start a new game \(highly recommended\) or use the Patch Updater if you h
     * +5% -&gt; +10% per level
 * Chaos now has the same effects as Undead
 * EXP requirements adjusted, again!
+* Weapon Boxes now have Quick Open added!
+  * Can open over and over without going into menu
+* Upgraded Dismantlers: Permeant -&gt; One time use
 
 ### Fixed
 
