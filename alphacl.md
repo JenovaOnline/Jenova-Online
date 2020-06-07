@@ -18,6 +18,7 @@ Either start a new game \(highly recommended\) or use the Patch Updater if you h
 
 * EXP Stat Upgrade makes a return!
   * Stat points required per level increased exponentially
+* Armor makes an appearance!
 
 ### Changed
 
@@ -42,6 +43,14 @@ Either start a new game \(highly recommended\) or use the Patch Updater if you h
   * Can open over and over without going into menu
 * Upgraded Dismantlers: Permeant -&gt; One time use
   * Regular dismantler still permeant
+* Shadow Tower enemy rewards adjusted
+  * Expertise gives out more EXP per level
+  * Chest gives out more Gold/EXP per level
+  * Bank gives out more Gold per level
+* Iconset updated
+* Weapons nerfed heavily
+  * Due to armor being implemented
+  * Matching Armor, Accessories and Weapons have a set effect that boosts some stats.
 
 ### Fixed
 
@@ -82,10 +91,6 @@ Either start a new game \(highly recommended\) or use the Patch Updater if you h
 * Special Stats increase normalized per base stat point
 * Lost Maze enemies level minimum
   * From none to 35
-* Shadow Tower enemy rewards adjusted
-  * Expertise gives out more EXP per level
-  * Chest gives out more Gold/EXP per level
-  * Bank gives out more Gold per level
 
 ### Fixed
 
