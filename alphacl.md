@@ -81,6 +81,10 @@ Either start a new game \(highly recommended\) or use the Patch Updater if you h
 * Special Stats increase normalized per base stat point
 * Lost Maze enemies level minimum
   * From none to 35
+* Shadow Tower enemy rewards adjusted
+  * Expertise gives out more EXP per level
+  * Chest gives out more Gold/EXP per level
+  * Bank gives out more Gold per level
 
 ### Fixed
 
