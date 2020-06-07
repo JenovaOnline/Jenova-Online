@@ -46,6 +46,7 @@ Either start a new game \(highly recommended\) or use the Patch Updater if you h
 ### Fixed
 
 * Intelligence passive: 16% MAT -&gt; 6% MAT increase
+* Main Quest Line Update will appear AFTER you've transferred to the correct location
 
 ### Removed
 
