@@ -49,7 +49,7 @@ Either start a new game \(highly recommended\) or use the Patch Updater if you h
   * Expertise gives out more EXP per level
   * Chest gives out more Gold/EXP per level
   * Bank gives out more Gold per level
-* Iconset updated
+* Icon set updated
 
 
 
