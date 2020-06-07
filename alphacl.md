@@ -41,6 +41,7 @@ Either start a new game \(highly recommended\) or use the Patch Updater if you h
 * Weapon Boxes now have Quick Open added!
   * Can open over and over without going into menu
 * Upgraded Dismantlers: Permeant -&gt; One time use
+  * Regular dismantler still permeant
 
 ### Fixed
 
