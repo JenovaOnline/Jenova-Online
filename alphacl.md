@@ -26,21 +26,8 @@ Either start a new game \(highly recommended\) or use the Patch Updater if you h
 
 ### Changed
 
-* Special Attributes nerfed hard
-* Harold \(Dark Path\) attacks 
-  * Ignore 100% -&gt; 50% Damage
-  * HP required for attacks cut in half
-  * HP Gained on Bleed enemy 50% -&gt; 10% of attack
-  * Bleed chance increased by %50
-  * Limit now takes 75% of max HP away
-    * Still ignores 100% Defense
-* Mastery Formulas 
-  * MP increase per level
-    * Tier 1 skills: 1% -&gt; 10% per level
-    * Tier 2 skills: 2% -&gt; 20% per level
-    * Tier 3 skills: 3% -&gt; 30% per level
-  * Damage formula buffed
-    * +5% -&gt; +10% per level
+
+
 * Chaos now has the same effects as Undead
 * EXP requirements adjusted, again!
 * Weapon Boxes now have Quick Open added!
@@ -58,6 +45,28 @@ Either start a new game \(highly recommended\) or use the Patch Updater if you h
   * Death will not automatically kill it
     * Does damage based on amount of MP instead
 * Equip Boxes now go into Equip Box item category
+
+{% hint style="info" %}
+Character Stat Revamp
+{% endhint %}
+
+* Character stat growth vastly changed
+  * Stat growth increases with class changes
+* Special Attributes nerfed hard
+* Harold \(Dark Path\) attacks 
+  * Ignore 100% -&gt; 50% Damage
+  * HP required for attacks cut in half
+  * HP Gained on Bleed enemy 50% -&gt; 10% of attack
+  * Bleed chance increased by %50
+  * Limit now takes 75% of max HP away
+    * Still ignores 100% Defense
+* Mastery Formulas 
+  * MP increase per level
+    * Tier 1 skills: 1% -&gt; 10% per level
+    * Tier 2 skills: 2% -&gt; 20% per level
+    * Tier 3 skills: 3% -&gt; 30% per level
+  * Damage formula buffed
+    * +5% -&gt; +10% per level
 
 ### Fixed
 
