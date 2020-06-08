@@ -18,9 +18,11 @@ Either start a new game \(highly recommended\) or use the Patch Updater if you h
 
 * EXP Stat Upgrade makes a return!
   * Stat points required per level increased exponentially
+* Equip Box Item Category
 * Armor makes an appearance!
   * Weapons nerfed heavily
     * Matching Armor, Accessories and Weapons have a set effect that boosts some stats.
+  * Added to Equip Boxes
 
 ### Changed
 
@@ -50,8 +52,12 @@ Either start a new game \(highly recommended\) or use the Patch Updater if you h
   * Chest gives out more Gold/EXP per level
   * Bank gives out more Gold per level
 * Icon set updated
-
-
+* Fairy now a proper boss figure 
+  * Gauge changed
+  * Unaffected by difficulty slider
+  * Death will not automatically kill it
+    * Does damage based on amount of MP instead
+* Equip Boxes now go into Equip Box item category
 
 ### Fixed
 
