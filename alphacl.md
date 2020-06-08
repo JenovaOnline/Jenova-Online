@@ -26,8 +26,6 @@ Either start a new game \(highly recommended\) or use the Patch Updater if you h
 
 ### Changed
 
-
-
 * Chaos now has the same effects as Undead
 * EXP requirements adjusted, again!
 * Weapon Boxes now have Quick Open added!
