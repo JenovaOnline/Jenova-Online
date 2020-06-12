@@ -43,6 +43,7 @@ Either start a new game \(highly recommended\) or use the Patch Updater if you h
   * Death will not automatically kill it
     * Does damage based on amount of MP instead
 * Equip Boxes now go into Equip Box item category
+* Enemies now drop Equip Boxes instead of Weapons
 
 {% hint style="info" %}
 Character Stat Revamp
