@@ -26,12 +26,12 @@ Either start a new game \(highly recommended\) or use the Patch Updater if you h
 
 ### Changed
 
-* Chaos now has the same effects as Undead
+* Chaos state now has the same added effects as Undead
 * EXP requirements adjusted, again!
 * Weapon Boxes now have Quick Open added!
   * Can open over and over without going into menu
-* Upgraded Dismantlers: Permeant -&gt; One time use
-  * Regular dismantler still permeant
+* Upgraded Dismantlers: Permanent -&gt; One time use
+  * Regular dismantler still permanent
 * Shadow Tower enemy rewards adjusted
   * Expertise gives out more EXP per level
   * Chest gives out more Gold/EXP per level
@@ -44,6 +44,7 @@ Either start a new game \(highly recommended\) or use the Patch Updater if you h
     * Does damage based on amount of MP instead
 * Equip Boxes now go into Equip Box item category
 * Enemies now drop Equip Boxes instead of Weapons
+  * Drop rates increased a lot
 
 {% hint style="info" %}
 Character Stat Revamp
@@ -71,6 +72,7 @@ Character Stat Revamp
 
 * Intelligence passive: 16% MAT -&gt; 6% MAT increase
 * Main Quest Line Update will appear AFTER you've transferred to the correct location
+* Chill, Frost and Freeze skills where causing Paralysis instead of Freeze.
 
 ### Removed
 
