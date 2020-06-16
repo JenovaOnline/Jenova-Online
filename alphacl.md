@@ -45,6 +45,8 @@ Either start a new game \(highly recommended\) or use the Patch Updater if you h
 * Equip Boxes now go into Equip Box item category
 * Enemies now drop Equip Boxes instead of Weapons
   * Drop rates increased a lot
+* Snowfall Town Sprite quest count now an item
+  * Given when you first start the quest
 
 {% hint style="info" %}
 Character Stat Revamp
