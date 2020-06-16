@@ -47,11 +47,12 @@ Either start a new game \(highly recommended\) or use the Patch Updater if you h
   * Drop rates increased a lot
 * Snowfall/Valley Village Quest Update
   * Snowfall Town/Valley Village Sprite quest counter now an item
+    * Use it to check progress of sprites killed
     * Given when you first start the quest
+      * One will be provided if in the middle of the quest
     * On-screen notification when quest item updates
     * Dialogue updated to be more fluid
-      * ... scene fixed
-      * 
+      * Quest Check scenes fixed
 
 {% hint style="info" %}
 Character Stat Revamp
