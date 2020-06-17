@@ -53,6 +53,7 @@ Either start a new game \(highly recommended\) or use the Patch Updater if you h
     * On-screen notification when quest item updates
     * Dialogue updated to be more fluid
       * Quest Check scenes fixed
+* Can now exchange Gold -&gt; Shadow Medallion at Ultimate Area's Premium Shop
 
 {% hint style="info" %}
 Character Stat Revamp
