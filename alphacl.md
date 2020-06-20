@@ -81,6 +81,7 @@ Character Stat Revamp
     * Meditate Formula: **a.mat / 3** -&gt; **\(a.mat + a.mdf / 2\) / 6**
     * Focus Formula: **a.mat / 2** -&gt; **\(a.mat + a.mdf / 2\) / 4**
     * Convergence Formula: **a.mat** -&gt; **\(a.mat + a.mdf / 2\) / 2**
+      * This still has a good effect due to either Magic Attack or Magic Defense boosting the power
 
 ### Fixed
 
