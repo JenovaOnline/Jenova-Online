@@ -54,6 +54,21 @@ Either start a new game \(highly recommended\) or use the Patch Updater if you h
     * Dialogue updated to be more fluid
       * Quest Check scenes fixed
 * Can now exchange Gold -&gt; Shadow Medallion at Ultimate Area's Premium Shop
+* Abnormal States that are tied to elements now allow skills with the same element to do 50% more damage
+  * This includes:
+    * Burn
+    * Paralysis
+    * Confusion
+    * Undead
+    * Poison \(Toxic NOT included\)
+    * Sleep
+    * Silence
+    * Berserk
+    * Blind
+    * Fascination
+    * Bleed
+    * Freeze
+    * Chaos
 
 {% hint style="info" %}
 Character Stat Revamp
