@@ -76,6 +76,11 @@ Character Stat Revamp
     * Tier 3 skills: 3% -&gt; 30% per level
   * Damage formula buffed
     * +5% -&gt; +10% per level
+* Meditate, Focus and Convergence Formula change
+  * This was due to Mastery Levels boosting the effect and it would be more efficient to nerf the formula then take away this effect
+    * Meditate Formula: **a.mat / 3** -&gt; **\(a.mat + a.mdf / 2\) / 6**
+    * Focus Formula: **a.mat / 2** -&gt; **\(a.mat + a.mdf / 2\) / 4**
+    * Convergence Formula: **a.mat** -&gt; **\(a.mat + a.mdf / 2\) / 2**
 
 ### Fixed
 
