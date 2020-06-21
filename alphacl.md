@@ -69,6 +69,7 @@ Either start a new game \(highly recommended\) or use the Patch Updater if you h
     * Bleed
     * Freeze
     * Chaos
+* TP Regen and TP Charge added to Attributes menu
 
 {% hint style="info" %}
 Character Stat Revamp
@@ -103,6 +104,7 @@ Character Stat Revamp
 * Intelligence passive: 16% MAT -&gt; 6% MAT increase
 * Main Quest Line Update will appear AFTER you've transferred to the correct location
 * Chill, Frost and Freeze skills where causing Paralysis instead of Freeze.
+* TP Charge Rate and TP Regen formulas
 
 ### Removed
 
