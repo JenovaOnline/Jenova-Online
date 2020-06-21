@@ -105,7 +105,7 @@ Character Stat Revamp
 * Main Quest Line Update will appear AFTER you've transferred to the correct location
 * Chill, Frost and Freeze skills where causing Paralysis instead of Freeze.
 * TP Charge Rate and TP Regen formulas
-* Norville Quest line fixed.
+* Norville Quest line fixed
 
 ### Removed
 
