@@ -106,7 +106,7 @@ Character Stat Revamp
 * Chill, Frost and Freeze skills where causing Paralysis instead of Freeze.
 * TP Charge Rate and TP Regen formulas
 * Norville Quest line fixed
-* Status Icons now show normally instead of inverted
+* Status Icons now show normally on enemies with hue instead of hued itself
 
 ### Removed
 
