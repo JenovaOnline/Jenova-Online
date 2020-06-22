@@ -13,7 +13,7 @@ _Change-log is incomplete. These notes may change at anytime._
 {% hint style="danger" %}
 ### W**ARNING**
 
-_Please start a new game or some on each update or some functions may not work!_
+_Please start a new game on each update or some functions may not work!_
 {% endhint %}
 
 ## 1.3 - UNRELEASED
