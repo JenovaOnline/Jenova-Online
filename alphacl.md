@@ -5,15 +5,15 @@ description: This is the changelog of Alpha.
 # Alpha Changelog
 
 {% hint style="warning" %}
-### **Please be advised**
+### **NOTE**
 
 _Change-log is incomplete. These notes may change at anytime._
 {% endhint %}
 
 {% hint style="danger" %}
-### Warning
+### W**ARNING**
 
-Please start a new game or some on each update or some functions may not work!
+_Please start a new game or some on each update or some functions may not work!_
 {% endhint %}
 
 ## 1.3 - UNRELEASED
