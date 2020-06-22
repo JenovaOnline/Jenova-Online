@@ -14,6 +14,12 @@ Either start a new game \(highly recommended\) or use the Patch Updater if you h
 
 ## 1.3 - UNRELEASED
 
+{% hint style="danger" %}
+## Critical Update! 
+
+**Please update the launcher to get this update!**
+{% endhint %}
+
 ### Added
 
 * EXP Stat Upgrade makes a return!
