@@ -5,11 +5,15 @@ description: This is the changelog of Alpha.
 # Alpha Changelog
 
 {% hint style="warning" %}
-Change-log is incomplete. These notes may change at anytime.
+### **Please be advised**
+
+_Change-log is incomplete. These notes may change at anytime._
 {% endhint %}
 
 {% hint style="danger" %}
-Either start a new game \(highly recommended\) or use the Patch Updater if you have a save file.
+### Warning
+
+Please start a new game or some on each update or some functions may not work!
 {% endhint %}
 
 ## 1.3 - UNRELEASED
