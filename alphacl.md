@@ -95,6 +95,7 @@ Character Stat Revamp
   * Bleed chance increased by %50
   * Limit now takes 75% of max HP away
     * Still ignores 100% Defense
+  * Dark path passive increases bleed chance
 * Mastery Formulas 
   * MP increase per level
     * Tier 1 skills: 1% -&gt; 10% per level
