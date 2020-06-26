@@ -19,7 +19,7 @@ _Please start a new game on each update or some functions may not work!_
 ## 1.3 - UNRELEASED
 
 {% hint style="danger" %}
-## Critical Update! 
+## Critical Update!
 
 **Please update the launcher to get this update!**
 {% endhint %}
@@ -80,6 +80,45 @@ _Please start a new game on each update or some functions may not work!_
     * Freeze
     * Chaos
 * TP Regen and TP Charge added to Attributes menu
+* Enemies attributes halved
+  * Enemies affected:
+    * Fairy
+      * 20% -&gt; 10% Evasion/Magic Evasion
+    * Wasp 
+      * 15% -&gt; 7% Evasion/Magic Evasion
+    * Kadaj/Yazoo/Loz
+      * 30% -&gt; 15% Evasion/Magic Evasion
+      * 150% -&gt; 125% TP Charge Rate
+        * TP Charge rate also fixed for these characters
+    * Sephiroth
+      * 50% -&gt; 25% Evasion/Magic Evasion
+      * 175% - 140% TP Charge Rate
+    * Jenova
+      * 50% -&gt; 25% Evasion/Magic Evasion
+      * 200% - 150% TP Charge Rate
+    * Jenova Death
+      * 75% -&gt; 40% Evasion/Magic Evasion
+      * 275% - 175% TP Charge Rate
+    * Greed
+      * 30% -&gt; 15% Evasion/Magic Evasion
+    * Sick
+      * 30% -&gt; 15% Evasion/Magic Evasion
+    * Dark/Light Fairy
+      * 50% -&gt; 25% Evasion/Magic Evasion
+    * Cockatrice
+      * 30% -&gt; 15% Evasion/Magic Evasion
+    * Imp
+      * 30% -&gt; 15% Evasion/Magic Evasion
+    * Spider
+      * 30% -&gt; 15% Evasion/Magic Evasion
+    * Will-o-wisp
+      * 30% -&gt; 15% Evasion/Magic Evasion
+    * Minotaur
+      * 10% -&gt; 5% HP Regen
+    * Werewolf
+      * 10% -&gt; 5% Counter Attack
+    * Iron Giant
+      * 95% -&gt; 100% Hit Rate
 
 {% hint style="info" %}
 Character Stat Revamp
