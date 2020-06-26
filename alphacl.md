@@ -157,6 +157,7 @@ Character Stat Revamp
 * TP Charge Rate and TP Regen formulas
 * Norville Quest line fixed
 * Status Icons now show normally on enemies with hue instead of hued itself
+* Cape Dread and Fortress City enemies not dropping teleporters
 
 ### Removed
 
