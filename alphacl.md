@@ -119,6 +119,8 @@ _Please start a new game on each update or some functions may not work!_
       * 10% -&gt; 5% Counter Attack
     * Iron Giant
       * 95% -&gt; 100% Hit Rate
+* Teleporter drop rates cut in half
+  * From 10% -&gt; 5% drop rate per enemy
 
 {% hint style="info" %}
 Character Stat Revamp
