@@ -70,7 +70,8 @@ _Please start a new game on each update or some functions may not work!_
     * Paralysis
     * Confusion
     * Undead
-    * Poison \(Toxic NOT included\)
+    * Poison \(only 25% instead of 50%\)
+    * Toxic \(only 25% instead of 50%\)
     * Sleep
     * Silence
     * Berserk
@@ -79,6 +80,7 @@ _Please start a new game on each update or some functions may not work!_
     * Bleed
     * Freeze
     * Chaos
+  * States no longer have elements attached to them to make the above changes stick
 * TP Regen and TP Charge added to Attributes menu
 * Enemies attributes halved
   * Enemies affected:
