@@ -4,7 +4,7 @@
 
 ## Alpha
 
-* [2.3 - UNRELEASED](alpha/2.3-unreleased.md)
+* [2.3 - RELEASED: 8/12/20](alpha/2.3-unreleased.md)
 * [2.2 - RELEASED: 7/30/20](alpha/2.2-unreleased.md)
 * [2.1 - RELEASED: 7/22/20](alpha/2.1-unreleased.md)
 * [2.0 \(1.3 Delayed\) - RELEASED: 7/18/20](alpha/2.0-released.md)
